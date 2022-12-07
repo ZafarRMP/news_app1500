@@ -11,5 +11,6 @@ class NewsApi {
     } catch (e) {
       e;
     }
+    return null;
   }
 }

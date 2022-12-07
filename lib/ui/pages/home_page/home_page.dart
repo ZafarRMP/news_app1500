@@ -11,7 +11,6 @@ import 'package:news_app/ui/components/home_page_slider/home_page_slider.dart';
 import 'package:news_app/ui/loaders/app_loaders.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:url_launcher/url_launcher.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
 class HomePage extends StatelessWidget {
